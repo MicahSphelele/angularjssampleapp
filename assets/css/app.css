@@ -1,0 +1,29 @@
+.file-input-label{
+    
+    padding: 20px;
+    transition: 0.3s;
+}
+.file-input-label:hover{
+    cursor: pointer;
+    border: 2px solid #00aa9a;
+}
+.fa-sick-note-file{
+    margin-right: 10px;
+}
+#btn-file-upload{
+    display: none;
+}
+.color-white{
+	color:white;
+}
+#label-span{
+	font-size:10pt;
+}
+
+.col-mg-top-5{
+	margin-top: 5px;
+}
+
+.col-mg-top-10{
+	margin-top: 10px;
+}
